@@ -5,7 +5,7 @@ title: A short introduction to the online visit to the digital transgender archi
 Quick link to the main website page of the digital transgender archive:
 <a href="https://www.digitaltransgenderarchive.net">Click Here</a>
 
-### Background information: 
+### Background information:  
 
 Being the world's largest transgender archive, the digital transgender archive based in the University of Victoria was offcially open in 2011. The foundation of this archive shall trace back to a conversation between *Aaron Devor* and *Rikki Swin* in 2005. The former later became the founder of the transgender archive. 
 
