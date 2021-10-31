@@ -19,6 +19,7 @@ All holdings of the Transgender Archives are accessible to the public, free of c
 The website is built in a minimalist style with blue and orange as dominant colors and clear juxtapostion in oraginzing taxonomies. The main catogries of **BROWSE** are **MAP, INSTITUTION, COLLECTION, TOPIC, GENRE, and LATEST**, which enable visitors to search information in multiple ways. To learn the background information of the archives and subjects correlated to transgender. 
 
 <img src="/Users/yuhangmei/BFofJodieComer.github.io/images/Taxonomies.png" alt="Taxonomies">
+![Taxonomies2](/Users/yuhangmei/BFofJodieComer.github.io/images/Taxonomies.png) 
 
 Despite taxonomies, the websites also leverages multimedia storytelling techniques to help visitors browse the archives, including heavy texts, pictures, icons, tutorial videos, timeline as well as maps.  
 
@@ -32,7 +33,7 @@ The materials in the archives are mostly journals and newspapers published back 
 <img src="/Users/yuhangmei/BFofJodieComer.github.io/images/Stereoscopic\ Card\ of\ an\ All-Female\ Marriage.tif" alt="Stereoscopic_Marriage">
 
 Quick link to the example object:
-[Click Here] (https://www.digitaltransgenderarchive.net/files/9g54xh72b)
+<a href="https://www.digitaltransgenderarchive.net/files/9g54xh72b">Click Here</a>
 
 I am particularly interested in a photograph named *Stereoscopic Card of an All-Female Marriage: The Benedict– "Married at Last"*. Pictured in early 20th century in Kentucky, this photograph witnessed a marriage of two females, one in wedding dress and the other in black suit. The color tone of the room's decór is bright and colorful, setting off a happy and relaxing atmosphere. 
 
