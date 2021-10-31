@@ -3,7 +3,7 @@ layout: post
 title: A short introduction to the online visit to the digital transgender archive
 ---
 Quick link to the main website page of the digital transgender archive:
-[Click Here] (https://www.digitaltransgenderarchive.net)
+<a href="https://www.digitaltransgenderarchive.net">Click Here</a>
 
 ### Background information: 
 
